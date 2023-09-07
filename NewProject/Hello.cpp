@@ -19,5 +19,7 @@ int main()
 
 	Id->printNum();
 
+	std::cout << "test!" << std::endl;
+
 	return 0;
 }
